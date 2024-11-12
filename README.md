@@ -21,13 +21,12 @@ CodeVector is an E-learning web application for online learning and teaching.
 - Fullscreen mode
 
 ## 🛠 Tech Stacks
-- #### EJS
-- #### Tailwind Css
+- #### Css
 - #### JavaScript
 - #### Node
 - #### Express
 - #### Mongodb
-- #### GIT
+  
 
 
 <!-- ## Screenshots :-
