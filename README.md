@@ -26,7 +26,8 @@ CodeVector is an E-learning web application for online learning and teaching.
 - #### Node
 - #### Express
 - #### Mongodb
-  
+- #### React
+
 ## Team Members
 
 | Name | NM ID | Email Address | AU ID |
