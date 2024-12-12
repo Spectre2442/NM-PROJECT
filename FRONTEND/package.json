@@ -1,5 +1,5 @@
 {
-  "name": "udemy-clone-backend",
+  "name": "CodeVector",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sachi4496/Udemy-Clone-Backend.git"
+    "url": "git+https://github.com/Spectre2442/NM-PROJECT.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sachi4496/Udemy-Clone-Backend/issues"
+    "url": "https://github.com/Spectre2442/NM-PROJECT/issues"
   },
-  "homepage": "https://github.com/Sachi4496/Udemy-Clone-Backend#readme",
+  "homepage": "https://github.com/Spectre2442/NM-PROJECT#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie": "^0.4.1",
